@@ -2,7 +2,7 @@
 
 These are our Backend services to communicate with our frontend Application.
 
-## How is divided:
+## Deployed Services:
 
 - Product
 - Student
